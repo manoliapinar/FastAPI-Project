@@ -1,0 +1,13 @@
+boto3
+psycopg2-binary
+fastapi
+mangum
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+python-jose
+python-dotenv
+gunicorn
+typing_extensions
+websockets
